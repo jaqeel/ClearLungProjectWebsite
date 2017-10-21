@@ -514,3 +514,8 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+/* Style portfolio images */
+.img-responsive {
+  width: 100%;
+  height: 100%;
+}
